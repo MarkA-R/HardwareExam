@@ -22,6 +22,12 @@ TINKERCAD)
 In the video, it shows the push button activating a output saying "Flee/Attack mode engaged". This is supposed to represent the duck player pressing the button to activate a random mode. Next, the two potentiometers represent the X and Y axis of the joystick. This is supposed to represent the joystick being used to move the duck around the screen. Since there is no joystick in TinkerCAD, I used two potentiometers instead. Lastly, the vibration motor to represent the rumble abilities is always on for demonstration purposes.
 
 
-TinkerCAD: https://www.tinkercad.com/things/0bJCPnPOh0W-exam-duck/editel?sharecode=2-P759iy0RFqf1WTyRcQaeUyg-e0rkj3I1uOp3M4PTY
+TinkerCAD: 
+
+Collaborate link: https://www.tinkercad.com/things/0bJCPnPOh0W-exam-duck/editel?sharecode=2-P759iy0RFqf1WTyRcQaeUyg-e0rkj3I1uOp3M4PTY
+
+Shared link: https://www.tinkercad.com/things/0bJCPnPOh0W?sharecode=4auT1_8JM08UHFUHL-iOvGOC_96rlj8WWHxqy8p4H_4
+
+
 There is no accelerometer/gyroscope in tinkerCAD, so that component is left out of the schematic. The joystick component is also not available in TinkerCAD, so it has been replaced with two potentiometers for the X and Y inputs of the joystick.
 
