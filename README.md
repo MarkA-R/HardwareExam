@@ -4,6 +4,7 @@ Video is called ExamVideo.mp4.
 STL file is called ExamDuck.stl.
 Images of the fusion 360 project are in the images folder.
 The technical drawing is called TechnicalDrawing.pdf.
+The schematic for the circuit is called TinkerCadSchematic.pdf
 
 
 EXPLAINATIONS
