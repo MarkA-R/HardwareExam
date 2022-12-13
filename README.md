@@ -14,6 +14,8 @@ The Fusion360 files of the controller is called ExamDuckFusion.f3z
 
 Individual STL files of the components can be found in the folder called STL
 
+Assembly (with part list) is called ExamDuckAssembly.pdf
+
 
 EXPLAINATIONS
 
