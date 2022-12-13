@@ -6,6 +6,7 @@ Images of the fusion 360 project are in the images folder.
 The technical drawing is called TechnicalDrawing.pdf.
 The schematic for the circuit is called TinkerCadSchematic.pdf
 The Fusion360 files of the controller is called ExamDuckFusion.f3z.
+Individual STL files of the components can be found in the folder called STL.
 
 
 EXPLAINATIONS
@@ -14,7 +15,7 @@ COMPONENTS)
 This duck has a vibration motor, joystick, push button, and accelerometer/gyro. The accelerometer/gyro sensor will be used to attack the hunter when the game is in attack mode. The user will have to shake the controller in order to simulate attacking the hunter. The joystick will be used for moving the duck in the air from side to side in flee mode. And the push button will be used to randomly initiate attack mode or flee mode. The vibration motor will be used to give the player a rumble sensation before they are about to attack or flee for some extra immersion.
 
 ASSEMBLY)
-The assembly consists of two parts, a top layer and a bottom layer. The bottom layer has a hold inside of it to fit the components of the controller. The top part is a roof for the controller so the internal components are inaccessable by the player.  The controller is designed to be shaped like a duck in order to immerse the player in their role as a duck. The assemby is easy to take apart and put together as there is only a single lid keeping the components inside. However, the lid could use a better way to hold itself in the design. This method of building the body of the controller was chosen as it is the simplest way to enclose a space. This also helps repairabliity by being simple to take apart and put back together.
+The assembly consists of two parts, a top layer and a bottom layer. The bottom layer has a hold inside of it to fit the components of the controller. The top part is a roof for the controller so the internal components are inaccessable by the player.  The controller is designed to be shaped like a duck in order to immerse the player in their role as a duck. The assemby is easy to take apart and put together as there is only a single lid keeping the components inside. However, the lid could use a better way to hold itself in the design. This method of building the body of the controller was chosen as it is the simplest way to enclose a space. This also helps repairabliity by being simple to take apart and put back together. The rounded edges of the duck make holding the controller comfortable for long play sessions.
 
 EXPLODED VIEW)
 (N/A)
